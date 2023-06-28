@@ -1,6 +1,6 @@
 {
   "name": "@wmfs/pg-info",
-  "version": "0.0.0-semantically-released",
+  "version": "0.1.0",
   "description": "Grabs metadata from a PostgreSQL database",
   "author": "West Midlands Fire Service",
   "homepage": "https://github.com/wmfs/pg-info#readme",
